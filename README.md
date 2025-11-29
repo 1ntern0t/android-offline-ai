@@ -1,8 +1,18 @@
 # ⚡ ANDROID OFFLINE AI — CLEAN SETUP GUIDE
 Run GGUF AI models *fully offline* on a **rooted Android device** using cross-compiled `llama.cpp` binaries.
 
-## ✅ Requirements
+## Requirements
 Anyone following this setup **must install the Android NDK**, because the NDK provides:
+
+---
+
+## Demo
+
+![Offline AI demo screenshot](IMG_8709.jpg)
+
+[▶️ Watch the offline AI demo](sample%20video.mp4)
+
+---
 
 - Toolchains (clang, linker, etc.)  
 - Android system headers  
@@ -13,7 +23,6 @@ Anyone following this setup **must install the Android NDK**, because the NDK pr
 Without the NDK, this command **will not work**:
 
 ```bash
--DCMAKE_TOOLCHAIN_FILE=$ANDROID_NDK/build/cmake/android.toolchain.cmake
 📦 Model Used for This Demo
 I used the mistral-7b-instruct-v0 GGUF model from HuggingFace.
 
