@@ -27,7 +27,7 @@ Without the NDK, this command **will not work**:
 I used the mistral-7b-instruct-v0 GGUF model from HuggingFace.
 
 You can choose any GGUF model you want:
-🔗 https://huggingface.co/
+https://huggingface.co/
 
 You MUST cross-compile your own binaries to match your device’s architecture.
 
