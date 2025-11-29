@@ -10,7 +10,7 @@ Anyone following this setup **must install the Android NDK**, because the NDK pr
 
 ![Offline AI demo screenshot](IMG_8709.jpg)
 
-[▶️ Watch the offline AI demo](sample%20video.mp4)
+[[▶️ Watch the offline AI demo](sample%20video.mp4)](https://x.com/1nternot/status/1994772971576070355/video/1)
 
 ---
 
